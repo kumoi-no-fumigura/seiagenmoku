@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/seiagenmoku",
  "yomi": "せいあがんもく",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "南北朝期",
+  "author": "頓阿",
+  "desc": "二条派の頓阿が歌道について記した書。定家の教えなどを引き、歌人や住吉社にまつわる説話も収める。冒頭の一部が欠けている。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -153,6 +158,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
